@@ -155,7 +155,7 @@ body {
   color: var(--accent-color);
 }
 
-/* ---------- Main Section ---------- */
+/* ---------- Hero Section ---------- */
 
 .hero {
   background: #2f303a;
@@ -212,7 +212,7 @@ body {
 /* ---------- Feature Section ---------- */
 .feature {
   align-items: center;
-  /* padding-bottom: 0; */
+  padding-bottom: 47px;
 }
 
 .feature-title {
@@ -245,7 +245,8 @@ body {
 /* ---------- Our Technology ---------- */
 
 .our-technology {
-  padding-bottom: 94px;
+  /* padding-bottom: 94px; */
+  padding-top: 47px;
 }
 
 .our-technology-title {
