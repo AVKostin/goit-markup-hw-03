@@ -161,13 +161,15 @@ body {
   background: #2f303a;
   width: auto;
   padding-bottom: 200px;
+  /* padding-top: 200px;
+  padding-bottom: 30px; */
 }
 
 .hero-title {
   margin: 0 auto;
   max-width: 696px;
   padding-top: 200px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -210,7 +212,7 @@ body {
 /* ---------- Feature Section ---------- */
 .feature {
   align-items: center;
-  padding-bottom: 0;
+  /* padding-bottom: 0; */
 }
 
 .feature-title {
@@ -252,7 +254,7 @@ body {
   line-height: 1.17;
   text-align: center;
   color: var(--secondary-title-color);
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .our-technology-list {
@@ -280,7 +282,7 @@ body {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
   color: var(--secondary-title-color);
 }
 
@@ -423,7 +425,7 @@ body {
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  magrin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .our-projects-list {
